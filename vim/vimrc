@@ -1,7 +1,7 @@
 " My personal take on .vimrc file
 " Inspiration taken from https://dougblack.io/words/a-good-vimrc.html
 
-colorscheme molokai        " badwolf colorscheme
+" colorscheme molokai        " badwolf colorscheme
 syntax enable	           " enable syntax processing
 
 set tabstop=4       " number of visual spaces per TAB
